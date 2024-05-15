@@ -7,29 +7,30 @@ https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?type=design
 
 - **Проект доступен по ссылке**
 
-https://......netlify.app/
+https://tourmaline-rabanadas-37fd36.netlify.app/
 
 Страницы:
 
-Ошибка 404 - https://......netlify.app/
+Ошибка 404 - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/404
 
-Ошибка 500 - https://......netlify.app/
+Ошибка 500 - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/500
 
-Вход - https://......netlify.app/
+Вход - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/sign-in
 
-Регистрация - https://......netlify.app/
+Регистрация - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/sign-up
 
-Профиль - https://......netlify.app/
+Профиль - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/profile
 
-Изменить пароль - https://......netlify.app/
+Изменить пароль - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/password-edit
 
-Изменить аватар - https://......netlify.app/
+Изменить аватар - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/avatar-upload
 
-Чат - https://......netlify.app/
+Чат - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/messenger
 
-Добавить пользователя - https://......netlify.app/
+Добавить пользователя - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/add-user
 
-Удалить пользователя - https://......netlify.app/
+Удалить пользователя - https://tourmaline-rabanadas-37fd36.netlify.app/src/pages/delete-user
+
 
 ### Сборка и запуск
 

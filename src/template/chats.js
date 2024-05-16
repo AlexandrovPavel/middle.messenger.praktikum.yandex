@@ -1,5 +1,5 @@
 export const chats = [
-        {
+    {
         id: 1,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -7,12 +7,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -20,8 +20,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 2,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -29,12 +29,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -42,8 +42,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 3,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -51,12 +51,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -64,8 +64,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 4,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -73,12 +73,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -86,8 +86,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 5,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -95,12 +95,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -108,8 +108,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 6,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -117,12 +117,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -130,8 +130,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 7,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -139,12 +139,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -152,8 +152,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 8,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -161,12 +161,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -174,8 +174,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 9,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -183,12 +183,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -196,8 +196,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 10,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -205,12 +205,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -218,8 +218,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 11,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -227,12 +227,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -240,8 +240,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 12,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -249,12 +249,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -262,8 +262,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 13,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -271,12 +271,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -284,8 +284,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 14,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -293,12 +293,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -306,8 +306,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 15,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -315,12 +315,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -328,8 +328,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 16,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -337,12 +337,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -350,8 +350,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 17,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -359,12 +359,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -372,7 +372,7 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
+    },
         {
         id: 18,
         title: "my-chat",
@@ -381,12 +381,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -394,8 +394,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 19,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -403,12 +403,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -416,8 +416,8 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-        {
+    },
+    {
         id: 20,
         title: "my-chat",
         avatar: "/src/assets/avatar.jpg",
@@ -425,12 +425,12 @@ export const chats = [
         created_by: 12345,
         last_message: {
             user: {
-            first_name: "Ivan",
-            second_name: "Ivanov",
-            avatar: "/assets/avatar.jpg",
-            email: "exempl@email.com",
-            login: "userLogin",
-            phone: "*(***) ***-**-**",
+                first_name: "Ivan",
+                second_name: "Ivanov",
+                avatar: "/assets/avatar.jpg",
+                email: "exempl@email.com",
+                login: "userLogin",
+                phone: "*(***) ***-**-**",
             },
             time: "17:15",
             content:
@@ -438,6 +438,6 @@ export const chats = [
             "is message content this is message content this is message " +
             "content this is message content this is message content",
         },
-        },
-    ];
+    },
+];
     

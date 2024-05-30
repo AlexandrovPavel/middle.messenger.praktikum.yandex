@@ -48,8 +48,6 @@ src:
 
 ## Линтеры
 
-в eslint используется правила airbnb-base;
-
 в stylelint используется правила stylelint-config-standard-less;
 
 

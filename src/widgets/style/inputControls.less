@@ -12,19 +12,6 @@
 			display: flex;
 			width: 100%;
 
-			&__img_error {
-				cursor: pointer;
-				position: absolute;
-				top: 0;
-				right: 0;
-				width: 16px;
-				height: 16px;
-
-				&:hover + .input__text_error {
-					display: flex;
-				}
-			}
-
 			&__text_error {
 				position: absolute;
 				display: none;
@@ -39,6 +26,19 @@
 				font-weight: @font-weight-500;
 				line-height: @line-height-11;
 				color: @white;
+			}
+
+			&__img_error {
+				cursor: pointer;
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 16px;
+				height: 16px;
+
+				&:hover + .input__text_error {
+					display: flex;
+				}
 			}
 		}
 

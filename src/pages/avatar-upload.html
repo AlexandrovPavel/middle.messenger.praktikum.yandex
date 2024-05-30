@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru">
+<html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <meta name="author" content="Pavel">
+        <meta name="description" content="Профиль">
+        <title>Профиль</title>
+        <link rel="stylesheet" href="/normalize.css">
+        <link rel="stylesheet" href="/global.css">
+    </head>
+    <body>
+        <main>
+        {{#> profile legend="Профиль"}}
+            {{#*inline "inputs"}}
+            {{> profile-input name="email" type="email" label="Почта" }}
+            {{> profile-input name="login" type="text" label="Логин" }}
+            {{> profile-input name="first_name" type="text" label="Имя" }}
+            {{> profile-input name="second_name" type="text" label="Фамилия" }}
+            {{> profile-input name="display_name" type="text" label="Имя в чате" }}
+            {{> profile-input name="phone" type="tel" label="Телефон" }}
+            {{/inline}}
+            {{#*inline "buttons"}}
+            {{> profile-button-group}}
+            {{> button text="Сохранить" type="submit"}}
+            {{/inline}}
+        {{/profile}}
+
+        {{#> modal}}
+            {{#> modal-form legend="Загрузить файл" buttonTextPrimary="Поменять" buttonTextSecondary="Отмена" }}
+            {{#*inline "inputs"}}    
+                {{> input name="avatar" type="file" label="Аватар" visibility="hidden" }}
+            {{/inline}}
+            {{#*inline "buttons"}}
+                {{> avatar-button-upload }}
+                {{> button text="Поменять" type="submit"}}
+                {{> button text="Отмена" type="cancel"}}
+            {{/inline}}
+            {{/modal-form}}
+        {{/modal}}
+        </main>
+    </body>
+</html>

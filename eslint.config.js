@@ -13,7 +13,11 @@ export default [
             "no-tabs": ["error", { "allowIndentationTabs": true }],
             "no-underscore-dangle": "off",
             "class-methods-use-this": "off",
-            "no-unused-vars": ["error", { "args": "none" }]
+            "no-unused-vars": ["error", { "args": "none" }],
+            "max-classes-per-file": "off",
+            "new-cap": "off",
+            "no-plusplus": "off",
+            "no-nested-ternary": "off"
         },
         "root": true,
         "env": {

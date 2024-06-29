@@ -7,7 +7,7 @@ https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?type=design
 
 - **Проект доступен по ссылке**
 
-https://tourmaline-rabanadas-37fd36.netlify.app/
+https://deploy-preview-6--magical-cajeta-15da17.netlify.app/
 
 ### Сборка и запуск
 

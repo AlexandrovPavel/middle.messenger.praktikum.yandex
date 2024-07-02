@@ -3,7 +3,7 @@ export default [
         "extends": "airbnb-base",
         "parser": "@typescript-eslint/parser",
         "plugins": ["@typescript-eslint"],
-        "ignores": ["/dist", "/node_modules", "*.config.js"],
+        "ignores": ["/dist", "/node_modules", "*.config.js", "**/*.test.ts"],
         "rules": {
             "indent": [2, 4],
             "arrow-body-style": "off",
